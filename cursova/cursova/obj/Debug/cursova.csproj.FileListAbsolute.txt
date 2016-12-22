@@ -1,0 +1,85 @@
+C:\Users\Zaharoff\Documents\Visual Studio 2008\Projects\Project1\cursova\cursova\bin\Debug\cursova.exe
+C:\Users\Zaharoff\Documents\Visual Studio 2008\Projects\Project1\cursova\cursova\bin\Debug\cursova.pdb
+C:\Users\Zaharoff\Documents\Visual Studio 2008\Projects\Project1\cursova\cursova\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zaharoff\Documents\Visual Studio 2008\Projects\Project1\cursova\cursova\obj\Debug\cursova.Properties.Resources.resources
+C:\Users\Zaharoff\Documents\Visual Studio 2008\Projects\Project1\cursova\cursova\obj\Debug\cursova.csproj.GenerateResource.Cache
+C:\Users\Zaharoff\Documents\Visual Studio 2008\Projects\Project1\cursova\cursova\obj\Debug\cursova.exe
+C:\Users\Zaharoff\Documents\Visual Studio 2008\Projects\Project1\cursova\cursova\obj\Debug\cursova.pdb
+C:\Users\Zaharoff\Documents\Visual Studio 2008\Projects\Project1\cursova\cursova\obj\Debug\cursova.FormMain.resources
+I:\cursova\cursova\obj\Debug\cursova.exe
+I:\cursova\cursova\obj\Debug\cursova.pdb
+I:\cursova\cursova\bin\Debug\cursova.exe
+I:\cursova\cursova\bin\Debug\cursova.pdb
+I:\cursova\cursova\obj\Debug\ResolveAssemblyReference.cache
+I:\cursova\cursova\obj\Debug\cursova.FormMain.resources
+I:\cursova\cursova\obj\Debug\cursova.Properties.Resources.resources
+I:\cursova\cursova\obj\Debug\cursova.csproj.GenerateResource.Cache
+G:\cursova\cursova\obj\Debug\cursova.exe
+G:\cursova\cursova\obj\Debug\cursova.pdb
+G:\cursova\cursova\bin\Debug\cursova.exe
+G:\cursova\cursova\bin\Debug\cursova.pdb
+G:\cursova\cursova\obj\Debug\ResolveAssemblyReference.cache
+G:\cursova\cursova\obj\Debug\cursova.FormMain.resources
+G:\cursova\cursova\obj\Debug\cursova.Properties.Resources.resources
+G:\cursova\cursova\obj\Debug\cursova.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\cursova\cursova\obj\Debug\cursova.exe
+C:\Users\Александр\Desktop\cursova\cursova\obj\Debug\cursova.pdb
+C:\Users\Александр\Desktop\cursova\cursova\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\cursova\cursova\obj\Debug\cursova.FormMain.resources
+C:\Users\Александр\Desktop\cursova\cursova\obj\Debug\cursova.Properties.Resources.resources
+C:\Users\Александр\Desktop\cursova\cursova\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Александр\Desktop\cursova\cursova\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Александр\Desktop\cursova\cursova\bin\Debug\cursova.exe
+C:\Users\Александр\Desktop\cursova\cursova\bin\Debug\cursova.pdb
+C:\Users\Александр\Desktop\cursova\cursova\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\Zaharoff\Desktop\cursova1\cursova\obj\Debug\cursova.FormMain.resources
+C:\Users\Zaharoff\Desktop\cursova1\cursova\obj\Debug\cursova.csproj.GenerateResource.Cache
+C:\Users\Zaharoff\Desktop\cursova1\cursova\obj\Debug\cursova.Form2.resources
+C:\Users\Zaharoff\Desktop\cursova1\cursova\obj\Debug\cursova.exe
+C:\Users\Zaharoff\Desktop\cursova1\cursova\obj\Debug\cursova.pdb
+C:\Users\Zaharoff\Desktop\cursova1\cursova\obj\Debug\cursova.Properties.Resources.resources
+C:\Users\Zaharoff\Desktop\cursova1\cursova\bin\Debug\cursova.exe
+C:\Users\Zaharoff\Desktop\cursova1\cursova\bin\Debug\cursova.pdb
+C:\Users\Zaharoff\Desktop\cursova1\cursova\obj\Debug\cursova.csprojResolveAssemblyReference.cache
+F:\cursova1\cursova1\cursova\obj\Debug\cursova.exe
+F:\cursova1\cursova1\cursova\obj\Debug\cursova.pdb
+F:\cursova1\cursova1\cursova\obj\Debug\cursova.csprojResolveAssemblyReference.cache
+F:\cursova1\cursova1\cursova\obj\Debug\cursova.FormMain.resources
+F:\cursova1\cursova1\cursova\obj\Debug\cursova.Form2.resources
+F:\cursova1\cursova1\cursova\obj\Debug\cursova.Properties.Resources.resources
+F:\cursova1\cursova1\cursova\obj\Debug\cursova.csproj.GenerateResource.Cache
+F:\cursova1\cursova1\cursova\obj\Debug\cursova.csprojFakesResolveAssemblyReference.cache
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\cursova.exe
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\cursova.csprojFakesResolveAssemblyReference.cache
+C:\Users\Skam\Desktop\cursova1\cursova\bin\Debug\cursova.exe
+C:\Users\Skam\Desktop\cursova1\cursova\bin\Debug\cursova.pdb
+C:\Users\Skam\Desktop\cursova1\cursova\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\Fakes\fakes.args
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\Fakes\moiw\f.ah
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\Fakes\moiw\f.ch
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\Fakes\moiw\f.cs
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\Fakes\moiw\f.csproj
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\Fakes\moiw\f.fakes
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\Fakes\moiw\f.fakesconfig
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\Fakes\moiw\f.snk
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\Fakes\moiw\o\f.csproj.FileListAbsolute.txt
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\Fakes\moiw\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\cursova.csprojResolveAssemblyReference.cache
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\cursova.FormMain.resources
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\cursova.Form2.resources
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\cursova.Properties.Resources.resources
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\cursova.csproj.GenerateResource.Cache
+C:\Users\Skam\Desktop\cursova1\cursova\obj\Debug\cursova.pdb
+C:\Users\DeTroiT\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\obj\Debug\cursova.exe
+C:\Users\DeTroiT\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\obj\Debug\cursova.pdb
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\obj\Debug\cursova.exe
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\obj\Debug\cursova.pdb
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\bin\Debug\cursova.exe
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\bin\Debug\cursova.pdb
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\obj\Debug\cursova.FormMain.resources
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\obj\Debug\cursova.Form2.resources
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\obj\Debug\cursova.Properties.Resources.resources
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ahmed\Мои документы\Dropbox\University\(Прокудін) Алгоритм.та програм.забезп\Маташин, 15 вариант, 3 метод\cursova1\cursova\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cursova">
+</Property><Property Name="Файл решения" Value="C:\Users\Александр\Desktop\cursova\cursova.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\Александр\Desktop\cursova\cursova.suo">
+</Property><Property Name="Date" Value="25 вересня 2013 р.">
+</Property><Property Name="Time" Value="22:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="cursova.sln" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova.sln">
+</Event><Event ErrorLevel="0" Project="" Source="cursova.suo" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova.suo">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\cursova.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Александр\Desktop\cursova\Backup\cursova\cursova.csproj">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Form1.cs" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Form1.cs">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Form1.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Program.cs" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Program.cs">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Resources\25.jpg" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Resources\25.jpg">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Resources\23.jpg" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Resources\23.jpg">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Resources\07.jpg" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Resources\07.jpg">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Resources\Graph.PNG" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Resources\Graph.PNG">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Form1.resx" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Form1.resx">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Александр\Desktop\cursova\Backup\cursova\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\cursova.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="cursova" Source="cursova\cursova.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="cursova.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="cursova.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cursova" Source="cursova\cursova.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
